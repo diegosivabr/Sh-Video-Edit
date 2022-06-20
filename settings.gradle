@@ -1,0 +1,2 @@
+rootProject.name='Sh_Video_Edit'
+include ':app'
